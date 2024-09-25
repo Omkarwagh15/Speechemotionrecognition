@@ -34,6 +34,17 @@ Project Structure
 ├── emotion_recognition.py  # Main script for emotion recognition
 │
 └── preprocess_data.py   # Script for data preprocessing
+Here are the steps to download the RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song) dataset online:
+Go to the official website of the RAVDESS dataset: https://smartlaboratory.org/ravdess/
+On the website, scroll down to the "Download" section.
+There are two options for downloading the dataset:
+Option 1: Download the entire dataset (Audio_Speech_Actors_01-24.zip and Audio_Song_Actors_01-24.zip)
+Option 2: Download individual ZIP files for each actor (e.g., Actor_01.zip, Actor_02.zip, etc.)
+Choose the option that suits your needs and click on the corresponding download link(s).
+After clicking the download link(s), you may be prompted to save the file(s) or open them directly in your web browser. Choose the "Save File" option to download the ZIP file(s) to your local machine.
+Once the download is complete, you can extract the contents of the ZIP file(s) to access the audio files and other data associated with the RAVDESS dataset.
+
+
 ## Installation
 Clone the repository:
 bash
